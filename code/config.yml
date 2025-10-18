@@ -1,0 +1,33 @@
+
+DEBUG: True
+
+QUICK: False
+
+LOG_DIR: log
+
+DEFAULT_DATA_PATH: ./snippet
+
+CLIENT: FILE
+
+DB:
+  HOST: 127.0.0.1
+  PORT: 27017
+  DB: lexxe
+
+MODE: BreakingNews
+
+PROCESSING:
+  DUPLICATE_DIFFERENCE_THRESHOLD: 0.1
+  BREAKING_THRESHOLD: .50
+
+KEYWORDS:
+  - Usain Bolt
+  - Woolworths
+  - Google
+  - China
+  - CBA
+  - Bitcoin
+  - Netflix
+  - AFL
+  - Technology
+  - Movies

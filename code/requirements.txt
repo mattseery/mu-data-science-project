@@ -1,0 +1,12 @@
+argparse
+beautifulsoup4
+configparser
+nltk
+scipy
+numpy
+pymongo
+scikit-learn
+lxml
+pexpect
+PyYAML
+faker

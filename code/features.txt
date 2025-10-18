@@ -1,0 +1,36 @@
+{"title_features": [
+	{"feature": "breaking", "score": 0.25},
+	{"feature": "opinion", "score": -100.0},
+	{"feature": "terror", "score": 0.1},
+	{"feature": "bomb", "score": 0.0},
+	{"feature": "related story", "score": -100.0}], 
+"beginning_features": [
+	{"feature": "breaking news", "score": 0.5},
+	{"feature": "opinion", "score": -1.0},
+	{"feature": "related story", "score": -1.0}], 
+"body_features": [
+	{"feature": "This story is developing", "score": 0.5},
+	{"feature": "terror plot", "score": 0.0},
+	{"feature": "plead guilty", "score": 0.1},
+	{"feature": "terrorist", "score": 0.0},
+	{"feature": "allegedly once", "score": 0.3},
+	{"feature": "affiliate have", "score": 0.3},
+	{"feature": "anonymous told", "score": 0.3},
+	{"feature": "suspected", "score": 0.1},
+	{"feature": "customers", "score": -0.5},
+	{"feature": "education", "score": -0.5},
+	{"feature": "growth", "score": -0.5}
+	], 
+"ending_features": [
+	{"feature": "more to come", "score": 0.1},
+	{"feature": "more to", "score": 0.1}, 
+	{"feature": "more soon", "score": 0.5}, 
+	{"feature": "more information will be available as it comes to hand", "score": 0.5}], 
+"url_features": [
+	{"feature": "/breaking-news/", "score": 0.10}, 
+	{"feature": "/latest-news/", "score": 0.10},
+	{"feature": "/comment/", "score": -100.0},
+    {"feature": "/opinion/", "score": -100.0},
+    {"feature": "/video/", "score": -100.0},
+    {"feature": "/video-news/", "score": -100.0},
+    {"feature": "/video-world-news/", "score": -100.0}]}
